@@ -1,0 +1,302 @@
+[
+  {
+    "title": "IRIS",
+    "description": "Unstitched Crepe Salwar Suit Material Floral Print, Pri...",
+    "price": 369,
+    "discountPrice": 0,
+    "discountPercent": 0,
+    "quantity": null,
+    "brand": null,
+    "sizes": [{ "name": "large", "quantity": 30 }],
+    "color": "blue",
+    "imageUrl": "https://i.pinimg.com/1200x/45/6e/3c/456e3c0ee7588bf0c86e720e09aadb67.jpg",
+    "ratings": [],
+    "reviews": [],
+    "numRatings": 0,
+    "category": [
+      {
+        "name": "women",
+        "level": 1
+      },
+      {
+        "name": "clothing",
+        "level": 2
+      },
+      {
+        "name": "dresses",
+        "level": 3
+      }
+    ],
+    "createdAt": "2023-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Reya",
+    "description": "Semi Stitched Georgette Salwar Suit Material Embroidere...",
+    "price": 304,
+    "discountPrice": 0,
+    "discountPercent": 0,
+    "quantity": null,
+    "brand": null,
+    "sizes": [{ "name": "medium", "quantity": 30 }],
+    "color": "green",
+    "imageUrl": "https://rukminim2.flixcart.com/image/612/612/k47cgi80/fabric/u/f/k/czy-30013-reya-original-imafn5wfhvj6pxvu.jpeg?q=70",
+    "ratings": [],
+    "reviews": [],
+    "numRatings": 0,
+    "category": [
+      {
+        "name": "women",
+        "level": 1
+      },
+      {
+        "name": "clothing",
+        "level": 2
+      },
+      {
+        "name": "dresses",
+        "level": 3
+      }
+    ],
+    "createdAt": "2023-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "THIRA",
+    "description": "Unstitched Crepe Salwar Suit Material Printed",
+    "price": 339,
+    "discountPrice": 0,
+    "discountPercent": 0,
+    "quantity": null,
+    "brand": null,
+    "sizes": [{ "name": "small", "quantity": 30 }],
+    "color": "red",
+    "imageUrl": "https://rukminim2.flixcart.com/image/612/612/kxuqdu80/fabric/l/s/5/yes-2-m-unstitched-2-2-m-fkrt-1463-45-inithi-original-imaga7sbhwjbtvcq.jpeg?q=70",
+    "ratings": [],
+    "reviews": [],
+    "numRatings": 0,
+    "category": [
+      {
+        "name": "women",
+        "level": 1
+      },
+      {
+        "name": "clothing",
+        "level": 2
+      },
+      {
+        "name": "dresses",
+        "level": 3
+      }
+    ],
+    "createdAt": "2023-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "S Creation",
+    "description": "Unstitched Cotton Blend Salwar Suit Material Printed",
+    "price": 349,
+    "discountPrice": 0,
+    "discountPercent": 0,
+    "quantity": null,
+    "brand": null,
+    "sizes": [{ "name": "large", "quantity": 30 }],
+    "color": "orange",
+    "imageUrl": "https://img.freepik.com/premium-psd/female-summer-dress-mocup_1097-1612.jpg?size=626&ext=jpg&ga=GA1.1.1395400388.1691749632&semt=ais",
+    "ratings": [],
+    "reviews": [],
+    "numRatings": 0,
+    "category": [
+      {
+        "name": "women",
+        "level": 1
+      },
+      {
+        "name": "clothing",
+        "level": 2
+      },
+      {
+        "name": "dresses",
+        "level": 3
+      }
+    ],
+    "createdAt": "2023-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Sloth Cloth",
+    "description": "Women Typography Round Neck Pure Cotton White T-Shirt",
+    "price": 449,
+    "discountPrice": 0,
+    "discountPercent": 0,
+    "quantity": null,
+    "brand": null,
+    "sizes": [{ "name": "large", "quantity": 30 }],
+    "color": "white",
+    "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/i/z/a/xl-sc-hrn-w-twinkles-whi-020-xl-sloth-cloth-original-imagreyrsnhe5vt9.jpeg?q=70",
+    "ratings": [],
+    "reviews": [],
+    "numRatings": 0,
+    "category": [
+      {
+        "name": "women",
+        "level": 1
+      },
+      {
+        "name": "clothing",
+        "level": 2
+      },
+      {
+        "name": "dresses",
+        "level": 3
+      }
+    ],
+    "createdAt": "2023-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "IRIS",
+    "description": "Unstitched Crepe Salwar Suit Material Floral Print, Pri...",
+    "price": 369,
+    "discountPrice": 0,
+    "discountPercent": 0,
+    "quantity": null,
+    "brand": null,
+    "sizes": [{ "name": "large", "quantity": 30 }],
+    "color": "blue",
+    "imageUrl": "https://img.freepik.com/premium-photo/pretty-girl-posing-confidently-with-attitude-fashion-shoot-wearing-desi-dress-street_658768-439.jpg?size=626&ext=jpg&ga=GA1.2.1395400388.1691749632&semt=ais",
+    "ratings": [],
+    "reviews": [],
+    "numRatings": 0,
+    "category": [
+      {
+        "name": "men",
+        "level": 1
+      },
+      {
+        "name": "clothing",
+        "level": 2
+      },
+      {
+        "name": "menKurtas",
+        "level": 3
+      }
+    ],
+    "createdAt": "2023-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Sarvada",
+    "description": "Unstitched Crepe Salwar Suit Material Floral Print, Pri...",
+    "price": 369,
+    "discountPrice": 0,
+    "discountPercent": 74,
+    "quantity": null,
+    "brand": null,
+    "sizes": [{ "name": "large", "quantity": 30 }],
+    "color": "bleck",
+    "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/fabric/j/1/q/yes-2-2-m-unstitched-2-m-2-5-m-3black-arya-sarvada-original-imagnzb8uaqtghbx.jpeg?q=70",
+    "ratings": [],
+    "reviews": [],
+    "numRatings": 0,
+    "category": [
+      {
+        "name": "men",
+        "level": 1
+      },
+      {
+        "name": "clothing",
+        "level": 2
+      },
+      {
+        "name": "menKurtas",
+        "level": 3
+      }
+    ],
+    "createdAt": "2023-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "Rimeline",
+    "description": "Women Self Design Pure Cotton Straight Kurta",
+    "price": 375,
+    "discountPrice": 0,
+    "discountPercent": 71,
+    "quantity": null,
+    "brand": null,
+    "sizes": [{ "name": "large", "quantity": 30 }],
+    "color": "yellow",
+    "imageUrl": "https://bechlo.pk/cdn/shop/products/rrurC5OHzc_590x.jpg?v=1679235529",
+    "ratings": [],
+    "reviews": [],
+    "numRatings": 0,
+    "category": [
+      {
+        "name": "men",
+        "level": 1
+      },
+      {
+        "name": "clothing",
+        "level": 2
+      },
+      {
+        "name": "menKurtas",
+        "level": 3
+      }
+    ],
+    "createdAt": "2023-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "River of cloth",
+    "description": "Women Viscose Rayon Kurta Sharara Set",
+    "price": 716,
+    "discountPrice": 0,
+    "discountPercent": 73,
+    "quantity": null,
+    "brand": null,
+    "sizes": [{ "name": "large", "quantity": 30 }],
+    "color": "red",
+    "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/n/g/l/s-plozo-set-river-of-cloth-original-imagguzztzesvphc.jpeg?q=70",
+    "ratings": [],
+    "reviews": [],
+    "numRatings": 0,
+    "category": [
+      {
+        "name": "women",
+        "level": 1
+      },
+      {
+        "name": "clothing",
+        "level": 2
+      },
+      {
+        "name": "dresses",
+        "level": 3
+      }
+    ],
+    "createdAt": "2023-09-04T00:00:00.000Z"
+  },
+  {
+    "title": "River of cloth",
+    "description": "Women Viscose Rayon Kurti Palazzo Set",
+    "price": 664,
+    "discountPrice": 0,
+    "discountPercent": 77,
+    "quantity": null,
+    "brand": null,
+    "sizes": [{ "name": "large", "quantity": 30 }],
+    "color": "black",
+    "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/w/r/w/3xl-kurta-palazzo-set-rhythm-enterprises-original-imafz2vfjbgfcfvg-bb.jpeg?q=70",
+    "ratings": [],
+    "reviews": [],
+    "numRatings": 0,
+    "category": [
+      {
+        "name": "women",
+        "level": 1
+      },
+      {
+        "name": "clothing",
+        "level": 2
+      },
+      {
+        "name": "dresses",
+        "level": 3
+      }
+    ],
+    "createdAt": "2023-09-04T00:00:00.000Z"
+  }
+]
